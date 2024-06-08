@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Property Website(HTML, CSS, JavaScript, PHP, MySQL</b>
-  - [](https://github.com/Diarmaid-H/Full-Stack-Property-Website)
+  - [Property Website Repo](https://github.com/Diarmaid-H/Full-Stack-Property-Website)
 - <b>Property Manager Program(Java, JavaFX)</b>
-  - [](https://github.com/Diarmaid-H/Property-Manager-Program)
+  - [Property Manager Repo](https://github.com/Diarmaid-H/Property-Manager-Program)
 
