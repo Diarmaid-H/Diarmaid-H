@@ -4,6 +4,9 @@
 
 - <b>Full Stack Property Website(HTML, CSS, JavaScript, PHP, MySQL</b>
   - [Property Website Repo](https://github.com/Diarmaid-H/Full-Stack-Property-Website)
+  - [Property Website Demo Video](https://youtu.be/I5vOtfzBgjs)
+    
 - <b>Property Manager Program(Java, JavaFX)</b>
   - [Property Manager Repo](https://github.com/Diarmaid-H/Property-Manager-Program)
+  - [Property Manager Demo Video](https://youtu.be/EHen5lP-RLI)
 
