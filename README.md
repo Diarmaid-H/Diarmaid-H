@@ -1,7 +1,7 @@
 <h1>Hi, I'm Diarmaid! <br/><a href="https://github.com/Diarmaid-H">Software Developer</a>, <a href="https://www.linkedin.com/in/diarmaid-hughes-a9ab9a169/">LinkedIn Profile</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>Gifterate(React, TailwindCSS, Node, Express, Sequelize, PostgreSQL, Vitest)</b>
+- <b>Gifterate(React, TailwindCSS, Node, Express, Sequelize, PostgreSQL)</b>
   - [Gifterate Demo Video](https://www.youtube.com/watch?v=O1c1eUpbcWA)
 
 - <b>Full Stack Property Website(HTML, CSS, JavaScript, PHP, MySQL)</b>
