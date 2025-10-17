@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Gifterate(React, TailwindCSS, Node, Express, Sequelize, PostgreSQL, Vitest)</b>
+- <b>Gifterate(React, TypeScript, TailwindCSS, Node.js, Express, Sequelize, PostgreSQL, Vitest, Cypress)</b>
   - [Gifterate Public Repo](https://github.com/Diarmaid-H/gifterate-public)
   - [Gifterate Demo Video](https://www.youtube.com/watch?v=O1c1eUpbcWA)
 
