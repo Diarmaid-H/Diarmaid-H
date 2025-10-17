@@ -4,7 +4,7 @@
 
 - <b>Gifterate(React, TypeScript, TailwindCSS, Node.js, Express, Sequelize, PostgreSQL, Vitest, Cypress)</b>
   - [Gifterate Public Repo](https://github.com/Diarmaid-H/gifterate-public)
-  - [Gifterate Demo Video](https://www.youtube.com/watch?v=O1c1eUpbcWA)
+  - [Gifterate Demo Video](https://youtu.be/bLWAr-ZOzJk)
 
 - <b>Full Stack Property Website(HTML, CSS, JavaScript, PHP, MySQL)</b>
   - [Property Website Repo](https://github.com/Diarmaid-H/Full-Stack-Property-Website)
